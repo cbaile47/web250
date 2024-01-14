@@ -36,6 +36,11 @@ header nav a:hover, header nav a:active {
 	color: white;
 }
 
+/* Horizontal Rule Styles */
+header hr {
+	clear:  left;  
+}
+
 /* H1/H2 Styles */
 h1, h2 {
 	color: rgb(32, 6, 6);
