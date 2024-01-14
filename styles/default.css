@@ -20,8 +20,7 @@ header nav ul li {
 	display: block;
 	float: left;
 	position:relative;
-	width: 20%;
-	padding-bottom: 1em;
+	width: 32%;
 	border: solid;
 	border-color: black;
 }
