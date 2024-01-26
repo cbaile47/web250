@@ -21,8 +21,7 @@ header nav ul li {
 	float: left;
 	position:relative;
 	width: 25%;
-	border: solid;
-	border-color: black;
+	outline: 2px solid rgb(64, 12, 12);
 }
 
 header nav a {
