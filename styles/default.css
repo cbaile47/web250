@@ -93,6 +93,14 @@ p#tagline {
 }
 
 /* Link Styles */
+a {
+	color: rgb(197, 99, 99);
+}
+
+a:visited {
+	color: rgb(150, 0, 0);
+}
+
 a#validation_link_html, a#validation_link_css {
 	text-decoration: none;
 }
