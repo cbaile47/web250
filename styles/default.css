@@ -83,6 +83,10 @@ main {
 	background-color: rgb(249, 225, 225);
 }
 
+main a {
+	text-decoration: underline;
+}
+
 /* Paragraph Style */
 p {
 	font-size: 110%;
@@ -95,6 +99,7 @@ p#tagline {
 /* Link Styles */
 a {
 	color: rgb(150, 37, 0);
+	text-decoration: none;
 }
 
 a:visited {
