@@ -74,9 +74,9 @@ footer nav {
 	text-align: center;
 }
 
-/* Branded Div Style */
+/* Main Style */
 
-div.branded {
+main {
 	border: 5px solid rgb(64, 12, 12);
 	padding-left: 1em;
 	padding-right: 1em;
