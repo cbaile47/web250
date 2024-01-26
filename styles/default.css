@@ -78,8 +78,7 @@ footer nav {
 
 main {
 	outline: 3px solid rgb(64, 12, 12);
-	padding-left: 1em;
-	padding-right: 1em;
+	padding: 2px 1em 2px 1em;
 	background-color: rgb(249, 225, 225);
 }
 
