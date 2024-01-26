@@ -17,7 +17,7 @@ header nav {
 }
 
 header nav ul {
-	margin-inline-start: 0px;
+	padding-inline-start: 0px;
 }
 
 header nav ul li {
