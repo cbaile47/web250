@@ -75,6 +75,11 @@ footer nav {
 	text-align: center;
 }
 
+a, a:visited {
+	color: rgb(249, 225, 225);
+	text-decoration: none;
+}
+
 /* Main Style */
 
 main {
