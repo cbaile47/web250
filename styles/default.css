@@ -86,6 +86,7 @@ main {
 	outline: 3px solid rgb(64, 12, 12);
 	padding: 2px 1em 2px 1em;
 	background-color: rgb(249, 225, 225);
+	margin-bottom: 1em;
 }
 
 main a {
