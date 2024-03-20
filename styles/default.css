@@ -65,6 +65,12 @@ body {
 }
 
 /* Footer Style */
+footer {
+	outline: 3px solid rgb(64, 12, 12);
+	padding: 1em;
+	background-color: rgb(249, 225, 225);
+}
+
 footer p {
 	font-size: 100%;
 	text-align: center;
